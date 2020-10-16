@@ -2,4 +2,4 @@ Niels HENDRICKX - Timo MASZEWSKI
 
 Coding project for 2048. Coded in Python, using mainly the Tkinter library.
 
-The main file is 
+The main file is display_grid
